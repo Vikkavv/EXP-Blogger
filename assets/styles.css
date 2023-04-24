@@ -307,7 +307,6 @@ li{
 }
 
 .img-keyboard-1{
-	height: 50%;
 	background-image: url(img/Mx_mechanical.webp);
 }
 
@@ -315,6 +314,7 @@ li{
 	font-family: product_sansregular;
 	background-size: 200%;
 	background-repeat: round;
+	height: 50%;
 	padding: 10rem 0 0;
 	width: 20ch;
 }
