@@ -313,8 +313,7 @@ li{
 .card-keyboards{
 	font-family: product_sansregular;
 	background-size: 200%;
-	background-repeat: round;
-	height: 50%;
+	background-repeat: round 4px;
 	padding: 10rem 0 0;
 	width: 20ch;
 }
