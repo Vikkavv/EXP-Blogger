@@ -268,11 +268,11 @@ li{
 	box-shadow: 7px 7px 2px #bf94ff;
 }
 
-.card-under-bg:hover .text-color-mouses{
-
-}
-.card-under-bg:hover .text-color-keyboards{
+.card-under-bg-keyboards:hover{
 	color: #407c3c;
+	transform: scaleX(1) scale(1.07) rotateZ(2deg);
+	transition: 300ms ease;
+	box-shadow: 7px 7px 2px #407c3c;
 }
 
 
