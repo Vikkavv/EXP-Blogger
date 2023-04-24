@@ -278,10 +278,10 @@ li{
 }
 
 .card-under-bg-keyboards:hover{
-	color: #407c3c;
+	color: #406b00;
 	transform: scaleX(1) scale(1.07) rotateZ(2deg);
 	transition: 300ms ease;
-	box-shadow: 7px 7px 2px #407c3c;
+	box-shadow: 7px 7px 2px #406b00;
 }
 
 
