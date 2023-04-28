@@ -269,6 +269,15 @@ li{
 	color: white;
 	transition: 300ms ease;
 }
+.card-under-bg-screens{
+	background-color: rgba(0 0 0 / 0.9);
+	max-width: max-content;
+	border-radius: 0.3rem;
+	padding: 0.4rem;
+	margin-bottom: 3ch;
+	color: white;
+	transition: 300ms ease;
+}
 
 .card-under-bg-mouses:hover{
 	color: #bf94ff;
@@ -276,12 +285,17 @@ li{
 	transition: 300ms ease;
 	box-shadow: 7px 7px 2px #bf94ff;
 }
-
 .card-under-bg-keyboards:hover{
 	color: #407c3c;
 	transform: scaleX(1) scale(1.07) rotateZ(2deg);
 	transition: 300ms ease;
 	box-shadow: 7px 7px 2px #407c3c;
+}
+.card-under-bg-screens:hover{
+	color: #22a7c5;
+	transform: scaleX(1) scale(1.07) rotateZ(2deg);
+	transition: 300ms ease;
+	box-shadow: 7px 7px 2px #22a7c5;
 }
 
 
