@@ -186,6 +186,9 @@
 .article-img {
 	transform: translate(-20%,0);
 }
+.article-img-screens {
+	transform: translate(-20%,0);
+}
 
 .article-text{
 	font-family: product_sansregular;
