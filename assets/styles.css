@@ -17,6 +17,7 @@
 		--top-position-article-block-text: 9%;
 	}
 	.article-img-screens{
+		transform: translate(-40%,0);
 		width: 50%;
 		height: 50%;
 		margin-top: 5%;
